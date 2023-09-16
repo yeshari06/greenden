@@ -1,0 +1,171 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+nav{
+    background-color:aquamarine;
+    padding:10px;
+    color:black;
+    height:250px;
+    
+}
+
+ul,li,h1{
+    display:inline;
+}
+
+ul{
+    margin-left:800px;
+}
+
+li:hover{
+    cursor:pointer;
+    color:white;
+}
+
+img{
+    float:right;
+    margin-right:20px;  
+}
+
+.one{
+    padding-left:30px;
+}
+
+button{
+    margin-left: 30px;
+    padding:10px;
+    background-color: black;
+    font-size:10px;
+    color:white;
+
+}
+
+button:hover{
+    cursor:pointer;
+    color:grey;
+}
+
+.center{
+    text-align:center;
+    
+}
+
+.container{
+    display:flex;
+    justify-content: space-around;
+    padding:10px;
+    justify-content: center;
+    text-align:center
+   
+}
+
+.box{
+    padding:10px;
+    height:200px;
+    width:200px;
+    border: solid black 2px;
+    margin-right:100px;
+    
+
+ }
+ 
+.variable{
+    background-color: aquamarine;
+    margin-top:50px;
+    height:400px;
+    display:flex;
+    justify-content:space-around;
+    
+}
+
+
+.box1{
+    margin-top: -50px;
+    text-align: center;
+
+    
+}
+
+.box2{
+    text-align:center;
+    margin-top: 30px;
+
+}
+
+.box3{
+    margin-top: -50px;
+    text-align: center;
+
+}
+.a{
+    text-align: center;
+    background-color: aquamarine;
+    padding:20px;
+}
+
+.best{
+    padding:20px;
+    display:flex;
+    justify-content:space-between;
+}
+
+.price{
+    text-align: center;
+
+}
+
+.b{
+    padding:10px;
+    margin-left:10px;
+}
+
+.client{
+    background-color: aquamarine;
+    height:200px;
+}
+
+.float{
+    float:left;
+    margin-top:-40px;
+}
+
+.five{
+    padding-top:50px;
+    padding-left:250px;
+}
+
+
+
+.searchbar{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.search{
+    border:solid black 2px;
+    width:1000px;
+    padding:10px;
+}
+
+.width{
+    width:150px;
+    font-size:18px;
+}
+
+.details{
+    background-color:aquamarine;
+    margin-top: 10px;
+    padding-top:50px;
+    padding-left:35px;
+}
+
+.details >i {
+    display:inline;
+    font-size:30px;
+}
+
+
+
+
